@@ -1,3 +1,0 @@
-speed,pdr_pct_mean,pdr_pct_ci95,delay_ms_mean,delay_ms_ci95,aodv_total_mean,aodv_total_ci95,nrl_mean,nrl_ci95,rerr_per_min_mean,rerr_per_min_ci95,rreq_per_min_mean,rreq_per_min_ci95
-40,99.6379,0.1812,6.0291,1.7363,337.0,142.4062,0.0757,0.0322,7.1143,3.9178,43.0714,18.4733
-100,86.3923,14.3909,53.6096,47.8052,1270.9,694.9768,0.4448,0.4054,18.2357,7.9023,216.9214,142.7191
